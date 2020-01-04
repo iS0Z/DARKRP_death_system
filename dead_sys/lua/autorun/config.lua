@@ -1,0 +1,3 @@
+DS_DEAD = {}
+
+DS_DEAD.BURNER_TEXT = "iSOZ";
