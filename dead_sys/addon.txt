@@ -5,7 +5,7 @@
 	"up_date"			"8/11/2016"
 	"author_name"			"iS0Z"
 	"author_email"			"sozxgame@gmail.com"
-	"author_url"			"http://iS0Z-Dev.tk/"
-	"info"				"Addon created for DakrRP server's. It's my first real addon"
+	"author_url"			""
+	"info"				"Addon created for DakrRP server's."
 	"override"				"0"
 }
