@@ -4,7 +4,7 @@
 	"version"			"1.0"
 	"up_date"			"8/11/2016"
 	"author_name"			"iS0Z"
-	"author_email"			"sozxgame@gmail.com"
+	"author_email"			"zachary.james.barron@protonmail.ch"
 	"author_url"			""
 	"info"				"Addon created for DakrRP server's."
 	"override"				"0"
